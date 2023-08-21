@@ -8,15 +8,11 @@ The '2012_Election_Data', '2014_World_Power_Consumption' files are associated wi
 
 #### Plotly & Cufflinks
 
-- installing Plotly, cufflinks libraries
+- installing Plotly, cufflinks, chart-studio libraries
 
+- Import Libraries
 
-# importing chart-studio plotly
-
-import chart_studio.plotly as py
-# importing usual libraries we need
-
-import numpy as np
+- 
 import pandas as pd 
 
 %matplotlib inline
