@@ -14,7 +14,7 @@ The '2012_Election_Data', '2014_World_Power_Consumption' files are associated wi
 
 - Importing data
 
-#### different types of plots
+##### different types of plots used
 scatter plot
 
 bar plot
