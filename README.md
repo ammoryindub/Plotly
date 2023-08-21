@@ -7,15 +7,8 @@ The '2012_Election_Data', '2014_World_Power_Consumption' files are associated wi
 
 
 #### Plotly & Cufflinks
-Plotly is a library that allows you to create interactive plots, you can use in dashboards or websites.
 
-N: You can save them as html files or static images
-#installing plotly library
-
-!pip install plotly 
-Requirement already satisfied: plotly in /Users/alex/anaconda3/lib/python3.10/site-packages (5.9.0)
-Requirement already satisfied: tenacity>=6.2.0 in /Users/alex/anaconda3/lib/python3.10/site-packages (from plotly) (8.0.1)
-# installing cufflinks library
+- installing Plotly, cufflinks libraries
 
 !pip install cufflinks
 Collecting cufflinks
