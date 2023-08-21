@@ -19,9 +19,9 @@ The '2012_Election_Data', '2014_World_Power_Consumption' files are associated wi
 
 - Bar plot
 
-box plot
+- Box plot
 
-3D surface plot
+- 3D surface plot
 
 histogram plot
 
