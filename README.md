@@ -23,9 +23,9 @@ The '2012_Election_Data', '2014_World_Power_Consumption' files are associated wi
 
 - 3D surface plot
 
-histogram plot
+- Histogram plot
 
-spread
+- Spread
 
 
 
