@@ -6,7 +6,7 @@ The 'dataset.csv' file is associated with 01-Plotly-Cufflinks
 The '2012_Election_Data', '2014_World_Power_Consumption' files are associated with 01-Plotly-Maps.
 
 
-Plotly & Cufflinks
+#### Plotly & Cufflinks
 Plotly is a library that allows you to create interactive plots, you can use in dashboards or websites.
 
 N: You can save them as html files or static images
